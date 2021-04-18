@@ -18,7 +18,7 @@ There will be questions - Telegram: <a href="https://t.me/Mrxanon"> @Mrxanon</a>
 # How to start?
 • <code>python3 instagram.py 'username' 'wordlist' -m 'mode'</code><br>
 # How to generate passwords?
-• <code>python setup.py</code><br>
+• <code>python Passgen.py</code><br>
 # How to unzip?
 • <code>unzip 'file'</code><br>
 
