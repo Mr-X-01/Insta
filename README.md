@@ -19,8 +19,11 @@ There will be questions - Telegram: <a href="https://t.me/Mrxanon"> @Mrxanon</a>
 • <code>python3 instagram.py 'username' 'wordlist' -m 'mode'</code><br>
 # How to generate passwords?
 • <code>python Passgen.py</code><br>
-# How to unzip?
-• <code>unzip 'file'</code><br>
+# How to unrar?
+• <code>sudo apt install unrar</code><br>
+• <code>sudo yum install unrar</code><br>
+• <code>sudo dnf install unrar</code><br>
+• <code>unrar e <file> /Insta</code><br>
 
 ### Help
 
